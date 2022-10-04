@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+
+body{
+    font-family: 'Homemade Apple', cursive;
+    font-size: 23px;
+    color:rgb(60, 29, 88);
+}
+
+h1, h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 3em;
+    font-style: italic;
+    font-weight:600;
+}

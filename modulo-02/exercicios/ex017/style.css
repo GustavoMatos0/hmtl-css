@@ -1,0 +1,33 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    /* Medidas Avsolutas
+    cm, mm, in, px(recomendado), pt, pc
+
+    Medidas Relativas
+    em(recomendado), ex, rem, vw, vh, %
+
+    16px geralmente = 1em
+    */
+    font-size: 1em;
+    font-weight: bold; /*exemplo */
+    font-style: italic;
+    
+}
+
+h1{/*
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 3em;
+    font-style:italic;
+
+    / shorthand font
+    font-style -> font-weight -> font-size -> font-family
+    */
+    text-decoration: underline;
+    font: italic bolder 3em 'san-serif';
+}
+
+h2{
+    font: bold 2em 'san-serif';
+}
+
